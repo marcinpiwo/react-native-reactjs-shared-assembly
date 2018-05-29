@@ -1,0 +1,7 @@
+{
+  "name": "shared",
+  "dependencies": {
+    "react": "16.2.0"
+  }
+  
+}
